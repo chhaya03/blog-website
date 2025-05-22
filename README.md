@@ -46,7 +46,7 @@ CREATE TABLE mydata (
 
 
 ## 🔧 Technologies Used
-- Frontend: HTML, CSS
+- Frontend: HTML, CSS , Bootstrap
 - Backend: PHP
 - Database: MySQL
 - Server: WAMP/XAMPP (localhost)
