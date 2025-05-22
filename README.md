@@ -1,5 +1,3 @@
-# blog-website
-
 # Web Programming Project – PHP Website
 
 ## 📚 Overview
